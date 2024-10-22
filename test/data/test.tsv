@@ -1,0 +1,3 @@
+sample_id	inputvcf	tbi	sex
+Pima_1	/mnt/archgen/users/ballesteros/Git/after_sarek/test/data/pima.test.vcf.gz	/mnt/archgen/users/ballesteros/Git/after_sarek/test/data/pima.test.vcf.gz.tbi	xy
+Maya_2	/mnt/archgen/users/ballesteros/Git/after_sarek/test/data/maya.test.vcf.gz	/mnt/archgen/users/ballesteros/Git/after_sarek/test/data/maya.test.vcf.gz.tbi	xx
